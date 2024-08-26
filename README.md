@@ -1,7 +1,9 @@
 # 💼 Gamith Chanuka - Portfolio Website
 
 Welcome to my personal portfolio website! This site showcases my skills, projects, and experience in web development and beyond. 🌐
-![Uploading 2422655 copy 24.png…]()
+
+![2422655 copy 24](https://github.com/user-attachments/assets/b11d6d88-95bb-41f6-9b23-e2fbb760f89b)
+
 
 ## 🌟 Features
 
